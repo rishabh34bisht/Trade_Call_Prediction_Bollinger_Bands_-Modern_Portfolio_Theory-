@@ -1,0 +1,2 @@
+# Trade_Call_Prediction_Bollinger_Bands_Modern_Portfolio_Theory
+An ML stock classifier model to buy, hold buy, hold short and short based on the Bollinger bands. Applied different classifier models with Bollinger bands and 14 day rolling stock price (inputs) & calls (output). Maximised net cumulative returns with variable weights and chose two portfolios with highest ‘Sharpe Ratio’ and ‘Lowest Volatility’.
